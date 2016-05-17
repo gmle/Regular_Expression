@@ -8,12 +8,7 @@ package cn.lesion.Regular;
 
 import java.util.regex.Pattern;
 
-/**
- * 校验器：利用正则表达式校验邮箱、手机号等
- *
- * @author liujiduo
- *
- */
+
 public class Validator {
     /**
      * 正则表达式：验证用户名
